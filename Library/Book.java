@@ -23,6 +23,11 @@ public class Book
     {
         numPages = pages;
     }
+    public static int pagesLeft(int totalPages, int currentpage)
+    {
+        return (totalPages - currentpage);
+    }
+        
     public static void main(String[] args)
     {
         // put your code here
@@ -30,7 +35,9 @@ public class Book
         Book book2 = new Book(200);
         
         System.out.print("The first book has " + book1.numPages + " pages,");
-        System.out.println("and is currently on page " + book1.currentPage);
+        System.out.println("and is currently on page " + book1.currentPage + ".");
+        System.out.println("There are " + pagesLeft(book1.numPages,book1.currentPage) + " pages left");
         System.out.println("The second book has "+ book2.numPages + " pages.");
+        
     }
 }
