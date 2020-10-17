@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PotatoHeadMethod
+comment0.text=\r\n\ Testing\ methods\ with\ potatohead\ class\r\n\r\n\ @author\ Shishir\ Sudhaman\r\n\ @version\ 10.16.2020\r\n
+comment1.params=Hat\ Eyes\ Age
+comment1.target=PotatoHeadMethod(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PotatoHeadMethod\r\n
+comment2.params=Hat\ Age
+comment2.target=PotatoHeadMethod(java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getAge()
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment4.params=
+comment4.target=int\ setAge()
+comment5.params=age1\ age2\ age3
+comment5.target=double\ getAverages(int,\ int,\ int)
+numComments=6
