@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RPS
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=java.lang.String\ generatePlay()
+comment3.params=user\ computer
+comment3.target=java.lang.String\ winner(java.lang.String,\ java.lang.String)
+numComments=4
